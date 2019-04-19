@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Connect Three</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="top_left">Top left token</string>
+    <string name="top_center">Top center token</string>
+    <string name="top_right">Top right token</string>
+    <string name="middle_left">Middle left token</string>
+    <string name="middle_center">Middle center token</string>
+    <string name="middle_right">Middle right token</string>
+    <string name="bottom_left">bottom left token</string>
+    <string name="bottom_center">bottom center token</string>
+    <string name="bottom_right">bottom right token</string>
+    <string name="play_again">Play again!</string>
+
+
+</resources>
